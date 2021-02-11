@@ -1,1 +1,3 @@
 # Tracing-and-Traking-Fake-news
+Fake news has been a hot topic in the last few years in the form of Troll Farms and these Hoax News attempt to create public unrest like Lynching, Cyber Mobbing, Subvert and influence the public perceptions using social media platforms
+This solution will detect Fake news like Offensive Text-(Comment, Post, Feeds), Offensive Images(Original or Morphed Pictures) and Offensive Multimedia Videos (Original or Fake Videos) across the Social Media websites using keywords crawling, APIs, Reverse Image and AI/ML/Data Mining techniques and original source of posting and nearer/proximate profiles.
